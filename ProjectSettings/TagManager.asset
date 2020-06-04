@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Suelo
+  - Coin
+  - Gem
+  - Ladder
+  - Enemigo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Background
+  - Foregound
+  - 
+  - Menus
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1446622383
+    locked: 0
+  - name: Before background
+    uniqueID: 2333969935
+    locked: 0
+  - name: No colidable
+    uniqueID: 3251471269
+    locked: 0
+  - name: Player
+    uniqueID: 459962395
+    locked: 0
+  - name: Foreground
+    uniqueID: 2875067563
+    locked: 0
+  - name: Coins
+    uniqueID: 4142920463
+    locked: 0
+  - name: Gems
+    uniqueID: 3000381989
+    locked: 0
+  - name: NPCs
+    uniqueID: 760653359
+    locked: 0

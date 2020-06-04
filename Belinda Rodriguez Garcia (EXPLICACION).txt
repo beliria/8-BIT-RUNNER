@@ -1,0 +1,11 @@
+Las mecanicas desarrolladas en este juego son:
+
+- Saltar sobre los enemigos para matarlos y recuperar +5HP cada vez que matas a uno.
+
+- Recoger objetos que aparecen en el escenario (Cerezas y Diamantes).
+
+- Desplazamiento de enemigos por el escenario.
+
+- Llegar a un punto concreto de dificil acceso(Hay que agacharse).
+
+- Pinchos en el suelo que hacen al jugador morir instantaneamente y tiene que empezar de nuevo.
